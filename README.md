@@ -23,4 +23,7 @@ This actually takes advantage of the "main" disadvantage of an LFSR. :wink:
 
 ## Architecture overview:
 
-![Untitled Diagram drawio](https://github.com/user-attachments/assets/5d062c62-8c25-474b-aff9-525283da7687)
+![Untitled Diagram drawio](https://github.com/user-attachments/assets/ad36e2f3-0492-4d15-9cf3-2062084b703d)
+
+<sub><small>(The big block with "Re-load seed ..." behaves like a counter tied to a register, but I just made a process describing it, not a component, so I just chucked it in the drawing as-is, and described what it does.) </small></sub>
+

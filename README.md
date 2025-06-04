@@ -19,4 +19,4 @@ Since all D flip-flops start with a default state '0', not entering any seed dif
 
 ## Architecture overview:
 
-![pseudo rng drawio](https://github.com/user-attachments/assets/2a1cc440-9f10-4d6b-98bf-8143048867d6)
+![Untitled Diagram drawio](https://github.com/user-attachments/assets/5d062c62-8c25-474b-aff9-525283da7687)

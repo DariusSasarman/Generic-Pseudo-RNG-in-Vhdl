@@ -14,6 +14,7 @@ In this Pseudo-random number generator I tackled this issue with the following s
     4. Wait.
 
 This way, all seeds are extended and overlap, making numbers exhibit higher variability.
+
 Since all D flip-flops start with a default state '0', not entering any seed different from "00...00" makes it wait for an input.
 
 ## Architecture overview:
